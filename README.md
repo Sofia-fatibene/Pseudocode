@@ -8,7 +8,7 @@
 
 
 
-'Let screen = 1'
+`Let screen = 1`
 Let x, y
 
 Function setup {
