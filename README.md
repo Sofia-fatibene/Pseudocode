@@ -8,13 +8,13 @@
 
 
 
-`Let screen = 1
-Let x, y
+`Let screen = 1`
+`Let x, y`
 
-Function setup {
-Createcanvas (windowwidth, windowheight) 
-Background
-}
+`Function setup {`
+`Createcanvas (windowwidth, windowheight)` 
+`Background`
+`}`
 function drawScreen (screen) {
 	
 	 //rectMode (CENTER);
