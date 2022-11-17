@@ -7,14 +7,31 @@
 5. Sound effects / colours (final touches)  Nov 15
 
 
+Project:
+1. Starting Page (with name of the game)
+2. Level screen (  1^ grade, regular and hard ) 
+3. Instructions 
+4. Game board screen + images + hints (2 > regular, 1> hard) + timer + Worng guessse in red + Buttons for start, restart, quit, hint button  + (if we have time) squares (6 wrong guesses and you lose) + winnwer text 
+ 
+ 1^ grade:
+ 1. Game board screen + images + hints (3)+  Worng guessse in red + Buttons for start, restart, quit + (if we have time) squares (7 wrong guesses and you lose) + winnwer text 
+ 2. Sounds of typing when you press keys 
+ 3. Colored boxes above the word 
 
-`Let screen = 1`
-`Let x, y`
+Instructions to win 1^ grade:
+1. You have three starts: to get 1 you have to guess two words, if you guess a letter wrong 7 times, you lose one stars
 
-`Function setup {`
-`Createcanvas (windowwidth, windowheight)` 
-`Background`
-`}`
+Instructions to win regular and hard: 
+1. You have three starts: to get 1 you have to guess two words, if you guess a letter wrong 7 times, you lose one stars
+2. timer to see who's more fast 
+```
+Let screen = 1
+Let x, y
+
+Function setup {
+Createcanvas (windowwidth, windowheight)
+Background
+}
 function drawScreen (screen) {
 	
 	 //rectMode (CENTER);
@@ -186,6 +203,7 @@ function keyPressed() {
 				print("NO MATCH!");
   }
 }
-}` 
+}
+```
 
 
