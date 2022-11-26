@@ -1,6 +1,34 @@
-# Pseudocode
+# Game design and psuedocode
+
+## Overview
+* There are three levels to choose from, First grade📖, Regular📚, and Hard 📝
+* The levels progress from short to long words/phrase
+* Only one player
+* Player guesses one letter at a time
+* Player can use hint button to make a hint appear in console
+* The player starts with 3 stars ⭐⭐⭐
+* A star is lost when you guess 6 letters wrong in the word/phrase 
+* The game ends when all stars are lost
  
- MIlestones:
+## Scoring
+* To lose a star you have to get six letters wrong in the word/phrase
+* When a level is lost and all 3 stars are lost, the game restart and returns to home screen
+
+## How to play the game
+Players try to guess the hidden word/phrase by guessing one letter at a time by typing the character on the keyboard. Player click hint button for a hint to appear in console. Player may also quite game by clicking on quit button.
+
+## Features
+[x] Basic phrase guessing, revealing correct guesses
+[x] Game over state
+[x] Levels scheme
+[x] Star (lives) scheme
+[ ] Sound effects
+[x] Regular mode
+[x] Grade One mode
+[ ] image hint
+
+
+ Milestones:
 1. Have an instructions screen, and game board with images, and hints Nov 9
 2. Make the keys work to guess letters Nov 10
 3. Have a working timer Nov 13
