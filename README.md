@@ -25,7 +25,7 @@ Play click try again, to try the phrase again. Players quite game, by clicking o
 - [x]  Game over state
 - [x]  Levels scheme
 - [x]  Star (lives) scheme
-- [ ]  Sound effects
+- [x]  Sound effects
 - [ ]  Sound out word/phrase
 - [x]  Regular mode
 - [x]  Grade One mode
