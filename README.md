@@ -7,7 +7,7 @@
 * Player guesses one letter at a time
 * Player can use hint button to make a hint appear in console
 * The player starts with 3 stars ⭐⭐⭐
-* A star is lost when you guess 6 letters wrong in the word/phrase 
+* A star is lost when you guess 6 letters wrong in the word/phrase or use a hint 
 * The game ends when all stars are lost
  
 ## Scoring
@@ -15,7 +15,10 @@
 * When a level is lost and all 3 stars are lost, the game restart and returns to home screen
 
 ## How to play the game
-Players try to guess the hidden word/phrase by guessing one letter at a time by typing the character on the keyboard. Players click hint button, for a hint to appear in console.  Play click try again, to try the phrase again. Players quite game, by clicking on quit button.
+To play in first grade mode players can click the button 'Start Game' or click on 'Level' button to choose other levels.
+Players try to guess the hidden word/phrase by guessing one letter at a time by typing the letter on the keyboard.
+Players can press the button 'Use Hint' and it will aperar a hint on the console to help.
+Play click try again, to try the phrase again. Players quite game, by clicking on quit button.
 
 ## Features
 - [x]  Basic phrase guessing, revealing correct guesses
