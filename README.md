@@ -15,17 +15,17 @@
 * When a level is lost and all 3 stars are lost, the game restart and returns to home screen
 
 ## How to play the game
-Players try to guess the hidden word/phrase by guessing one letter at a time by typing the character on the keyboard. Player click hint button for a hint to appear in console. Player may also quite game by clicking on quit button.
+Players try to guess the hidden word/phrase by guessing one letter at a time by typing the character on the keyboard. Players click hint button, for a hint to appear in console.  Play click try again, to try the phrase again. Players quite game, by clicking on quit button.
 
 ## Features
-[x] Basic phrase guessing, revealing correct guesses
-[x] Game over state
-[x] Levels scheme
-[x] Star (lives) scheme
-[ ] Sound effects
-[x] Regular mode
-[x] Grade One mode
-[ ] image hint
+- [x]  Basic phrase guessing, revealing correct guesses
+- [x]  Game over state
+- [x]  Levels scheme
+- [x]  Star (lives) scheme
+- [ ]  Sound effects
+- [x]   Regular mode
+- [x]  Grade One mode
+- [ ]  image hint
 
 
  Milestones:
