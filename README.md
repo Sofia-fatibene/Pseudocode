@@ -29,7 +29,7 @@ Play click try again, to try the phrase again. Players quite game, by clicking o
 - [ ]  Sound out word/phrase
 - [x]  Regular mode
 - [x]  Grade One mode
-- [ ]  Image hint
+- [x]  Emoji hint
 
 
  Milestones:
